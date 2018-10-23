@@ -1,1 +1,1 @@
-# This is a basic model that try to predict, with the first year data of a NBA player, if the career of this player are going to pass the five years.
+# This is a project when I try to predict, with the first year data of a NBA player, if the career of this player are going to pass the five years. I used basic prediction binary model like logistic regression, Gradient Boosting Classifier, Ada, etc; and a basic neural network in Keras.
